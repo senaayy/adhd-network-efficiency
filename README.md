@@ -46,6 +46,13 @@ Beynin yerel bölgelerinin (komşuların) birbirine bağlanma derecesini ölçer
 ![Clustering Coefficient Graph](results/clustering_plot.png)
 
 ---
+## 🔍 Tartışma ve Kritik Değerlendirme (Neden Fark Bulunamadı?)
+
+Bu çalışmada elde edilen `p > 0.05` sonucu, "başarısızlık" değil, bilimsel bir bulgudur. Literatür ışığında bu sonucun olası nedenleri şunlardır:
+
+1.  **Örneklem Büyüklüğü (Sample Size):** Çalışma 30 denek (13 ADHD, 17 Kontrol) üzerinde gerçekleştirilmiştir. fMRI çalışmalarında milimetrik ağ farklarını yakalayabilmek için genellikle daha geniş kohortlara (N > 100) ihtiyaç duyulur.
+2.  **Atlas Çözünürlüğü:** Bu çalışmada 116 bölge içeren **AAL Atlası** kullanılmıştır. Daha yüksek çözünürlüklü atlaslar (örn. Schaefer 400 parcellation) kullanılması durumunda, yerel ağlardaki daha ince bozulmalar tespit edilebilir.
+3.  **ADHD'nin Heterojen Yapısı:** ADHD tek tip bir bozukluk değildir (Dikkat eksikliği baskın, Hiperaktivite baskın vb.). Alt tipler arasındaki nöral farklar, genel grup ortalamasında birbirini nötrlemiş olabilir.
 
 ## 🛠️ Kurulum ve Çalıştırma
 
