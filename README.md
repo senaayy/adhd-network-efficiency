@@ -71,17 +71,17 @@ pip install numpy pandas matplotlib scipy networkx nilearn scikit-learn
 python analysis.py
 ```
 📂 Dosya Yapısı
+```text
 adhd-network-efficiency/
-│
-├── analysis.ipynb      # 🧠 Ana analiz kodları (Jupyter Notebook)
-├── results/            # 📊 Çıktı grafikleri (PNG dosyaları burada)
+├── analysis.ipynb           # 🧠 Ana analiz kodları (Jupyter Notebook)
+├── results/                 # 📊 Çıktı grafikleri (PNG dosyaları burada)
 │   ├── global_efficiency_plot.png
 │   └── clustering_plot.png
-├── Dockerfile          # 🐳 Docker yapılandırması
-├── docker-compose.yml  # 🐳 Servis ayarları
-├── requirements.txt    # 📦 Gerekli kütüphaneler
-└── README.md           # 📄 Proje dokümantasyonu
-
+├── Dockerfile               # 🐳 Docker yapılandırması
+├── docker-compose.yml       # 🐳 Servis ayarları
+├── requirements.txt         # 📦 Gerekli kütüphaneler
+└── README.md                # 📄 Proje dokümantasyonu
+```
 👨‍💻 Geliştirici
 Bu proje Fırat Üniversitesi Teknoloji Fakültesi öğrencisi tarafından geliştirilmiştir.
 
