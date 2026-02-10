@@ -89,6 +89,6 @@ Geliştirici: Sena Ay
 
 Alan: Yazılım Mühendisliği & Nörobilim (Computational Neuroscience)
 
-İletişim: 2405411@firat.edu.tr
+İletişim: 240541111@firat.edu.tr
 
 Not: Bu çalışma akademik bir araştırma projesi kapsamında hazırlanmıştır.
