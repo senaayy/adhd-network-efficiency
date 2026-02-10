@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scipy
+networkx
+nilearn
+scikit-learn
+jupyterlab  # Notebook ortamı için eklendi

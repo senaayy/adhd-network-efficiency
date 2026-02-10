@@ -1,0 +1,8 @@
+services:
+  adhd_analysis:
+    build: .
+    ports:
+      - "8888:8888"  # Bilgisayarındaki 8888 portunu Docker'a bağlar
+    volumes:
+      - .:/app  # Tüm klasörü bağlarız ki yazdığın Notebook'lar silinmesin
+      - ./nilearn_cache:/root/nilearn_data
