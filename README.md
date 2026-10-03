@@ -62,7 +62,7 @@ Bu proje **Docker** üzerinde çalışacak şekilde tasarlanmıştır, bu sayede
 
 1. **Repoyu Klonlayın:**
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/adhd-network-efficiency.git](https://github.com/KULLANICI_ADIN/adhd-network-efficiency.git)
+   git clone https://github.com/senaayy/adhd-network-efficiency.git
    cd adhd-network-efficiency
    ```
    Docker Konteynerini Başlatın:
